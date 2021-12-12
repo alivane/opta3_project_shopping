@@ -1,0 +1,9 @@
+[2021-10-24 00:54:38] [INFO ] INFO: initTransaction - amount: 990, sessionId: 6174aeced8022, buyOrder: _Healthcheck_, txDate: 24-10-2021, txTime: 00:54:38
+[2021-10-24 00:54:39] [INFO ] INFO: createTransaction - initResult: {"token":"01ab0164ecd33a94e57fa8a0f7216f3698c87c1542da012cfae777b8f77db2bc","url":"https:\/\/webpay3gint.transbank.cl\/webpayserver\/initTransaction"}
+[2021-10-24 00:56:38] [INFO ] INFO: initTransaction - amount: 990, sessionId: 6174af4652604, buyOrder: _Healthcheck_, txDate: 24-10-2021, txTime: 00:56:38
+[2021-10-24 00:56:38] [INFO ] INFO: createTransaction - initResult: {"token":"01abf59d11e2565628aad8956156049af0cda340ab8962f6bae1b2624be53deb","url":"https:\/\/webpay3gint.transbank.cl\/webpayserver\/initTransaction"}
+[2021-10-24 01:26:06] [INFO ] INFO: initTransaction - amount: 990, sessionId: 6174b62e7d474, buyOrder: _Healthcheck_, txDate: 24-10-2021, txTime: 01:26:06
+[2021-10-24 01:26:07] [INFO ] INFO: createTransaction - initResult: {"token":"01abea53ab383ee398db0aeabc80069753f52fdf91cc96c553dc0902d9a940c9","url":"https:\/\/webpay3gint.transbank.cl\/webpayserver\/initTransaction"}
+[2021-10-24 01:37:51] [INFO ] INFO: initTransaction - amount: 150, sessionId: 6174b8efa4892, buyOrder: 3184, txDate: 24-10-2021, txTime: 01:37:51
+[2021-10-24 01:37:52] [INFO ] INFO: createTransaction - initResult: {"token":"01abaee1d47a13358e17459b3cc4d1e6f94dd2e10c89f3cc14eb7af1b6aab82a","url":"https:\/\/webpay3gint.transbank.cl\/webpayserver\/initTransaction"}
+[2021-10-24 01:39:14] [INFO ] INFO: getTransactionResult - tokenWs: 01abaee1d47a13358e17459b3cc4d1e6f94dd2e10c89f3cc14eb7af1b6aab82a
